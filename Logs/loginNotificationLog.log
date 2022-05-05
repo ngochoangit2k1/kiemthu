@@ -1,0 +1,34 @@
+05-May-22 12:52:26 - 
+
+05-May-22 12:52:26 - ====== WebDriver manager ======
+05-May-22 12:52:26 - Current google-chrome version is 101.0.4951
+05-May-22 12:52:26 - Get LATEST chromedriver version for 101.0.4951 google-chrome
+05-May-22 12:52:26 - Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05-May-22 12:52:27 - ****Driver Initilized ****
+05-May-22 12:52:29 - ****Broser ****
+05-May-22 12:52:29 - ****Title not matched ****
+05-May-22 12:52:31 - 
+
+05-May-22 12:52:31 - ====== WebDriver manager ======
+05-May-22 12:52:32 - Current google-chrome version is 101.0.4951
+05-May-22 12:52:32 - Get LATEST chromedriver version for 101.0.4951 google-chrome
+05-May-22 12:52:32 - Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05-May-22 12:52:33 - ****Driver Initilized ****
+05-May-22 12:52:35 - ****Broser ****
+05-May-22 12:52:35 - ****Passing Credentsials ****
+05-May-22 12:52:36 - ****Passing Credentsials ****
+05-May-22 12:52:36 - ****Click Login Button ****
+05-May-22 12:52:36 - ****Title not matched****
+dm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+****Driver Initilized ****
+****Driver Initilized ****
+****Broser ****
+****Broser ****
+****Passing Credentsials ****
+****Passing Credentsials ****
+****Passing Credentsials ****
+****Passing Credentsials ****
+****Click Login Button ****
+****Click Login Button ****
+****Title not matched****
+****Title not matched****
