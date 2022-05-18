@@ -2,8 +2,8 @@ from selenium import webdriver
 from  webdriver_manager.chrome import  ChromeDriverManager
 
 class HomePape:
-    link_login_xpath='//button[@class="el-button el-button--text"]'
-    link_register_xpath="//a[@href='/register']"
+    link_login_xpath="//a[@href='/signin']"
+    link_register_xpath="//a[@href='/signup']"
 
     def __init__(self,driver):
         self.driver = driver

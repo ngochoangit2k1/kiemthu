@@ -5,8 +5,9 @@ Feature: Test the viblo application
     And close the browser
 
   Scenario: Verify registration function
-    Given Launch the App1
-    When enter registration credentials1
-    Then click register
-    Then verify the page title and screenshot1
-    And close the App1
+    Given Launch the App111
+    When enter registration credentials111
+    Then verify the page title and screenshot111
+    And close the App111
+
+

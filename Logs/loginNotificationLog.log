@@ -1,34 +1,36 @@
-05-May-22 12:52:26 - 
+18-May-22 16:18:43 - 
 
-05-May-22 12:52:26 - ====== WebDriver manager ======
-05-May-22 12:52:26 - Current google-chrome version is 101.0.4951
-05-May-22 12:52:26 - Get LATEST chromedriver version for 101.0.4951 google-chrome
-05-May-22 12:52:26 - Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
-05-May-22 12:52:27 - ****Driver Initilized ****
-05-May-22 12:52:29 - ****Broser ****
-05-May-22 12:52:29 - ****Title not matched ****
-05-May-22 12:52:31 - 
+18-May-22 16:18:43 - ====== WebDriver manager ======
+18-May-22 16:18:44 - Current google-chrome version is 101.0.4951
+18-May-22 16:18:44 - Get LATEST chromedriver version for 101.0.4951 google-chrome
+18-May-22 16:18:44 - Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+18-May-22 16:18:46 - ****Driver Initilized ****
+18-May-22 16:18:53 - ****Broser ****
+18-May-22 16:18:53 - ****Title not matched ****
+18-May-22 16:18:55 - 
 
-05-May-22 12:52:31 - ====== WebDriver manager ======
-05-May-22 12:52:32 - Current google-chrome version is 101.0.4951
-05-May-22 12:52:32 - Get LATEST chromedriver version for 101.0.4951 google-chrome
-05-May-22 12:52:32 - Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
-05-May-22 12:52:33 - ****Driver Initilized ****
-05-May-22 12:52:35 - ****Broser ****
-05-May-22 12:52:35 - ****Passing Credentsials ****
-05-May-22 12:52:36 - ****Passing Credentsials ****
-05-May-22 12:52:36 - ****Click Login Button ****
-05-May-22 12:52:36 - ****Title not matched****
-dm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
-****Driver Initilized ****
-****Driver Initilized ****
-****Broser ****
-****Broser ****
+18-May-22 16:18:55 - ====== WebDriver manager ======
+18-May-22 16:18:56 - Current google-chrome version is 101.0.4951
+18-May-22 16:18:56 - Get LATEST chromedriver version for 101.0.4951 google-chrome
+18-May-22 16:18:56 - Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+18-May-22 16:18:58 - ****Driver Initilized ****
+18-May-22 16:19:05 - ****Broser ****
+18-May-22 16:19:05 - ****Passing Credentsials ****
+18-May-22 16:19:09 - ****Entered Credentials 15 failed *****
+18-May-22 16:19:16 - ****Entered Credentials 16 failed *****
+18-May-22 16:19:23 - ****Entered Credentials 17 failed *****
+18-May-22 16:19:29 - ****Entered Credentials 18 failed *****
+18-May-22 16:19:36 - ****Entered Credentials 19 passed *****
+r ****
 ****Passing Credentsials ****
 ****Passing Credentsials ****
-****Passing Credentsials ****
-****Passing Credentsials ****
-****Click Login Button ****
-****Click Login Button ****
-****Title not matched****
-****Title not matched****
+****Entered Credentials 15 failed *****
+****Entered Credentials 15 failed *****
+****Entered Credentials 16 failed *****
+****Entered Credentials 16 failed *****
+****Entered Credentials 17 failed *****
+****Entered Credentials 17 failed *****
+****Entered Credentials 18 failed *****
+****Entered Credentials 18 failed *****
+****Entered Credentials 19 passed *****
+****Entered Credentials 19 passed *****

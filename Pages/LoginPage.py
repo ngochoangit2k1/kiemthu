@@ -3,11 +3,11 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 
 class LoginPage:
-    txt_username_type = "//input[@type='text']"
-    txt_password_type = "//input[@type='password']"
-    btn_login_xpath = "//button[@class='el-button w-100 el-button--primary']"
-    btn_totliplogout_xpath = '//img[@class="avatar avatar--md rounded-circle el-popover__reference"]'
-    btn_logout_xpath = "(//div[@class='user-menu__menu-item'])[5]"
+    txt_username_type = "//input[@name='email']"
+    txt_password_type = "//input[@name='password']"
+    btn_login_xpath = "//button[text()='LOGIN']"
+
+    btn_logout_xpath = "//a[text()='Sign out']"
 
     def __init__(self, driver):
         self.driver = driver

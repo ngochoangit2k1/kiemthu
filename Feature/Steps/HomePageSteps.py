@@ -12,9 +12,6 @@ import time
 baseURl = ReadConfig.getURL()
 mylogger = LogGen.loggen()
 
-print(baseURl)
-
-
 @given(u'Launch the browser')
 def step_impl(context):
     context.driver = webdriver.Chrome(ChromeDriverManager().install())

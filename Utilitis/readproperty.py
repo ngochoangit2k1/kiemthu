@@ -14,6 +14,21 @@ class ReadConfig:
         return username
 
     @staticmethod
+    def getUrlExcelFile():
+        pathExcel = config.get('common-info', 'pathExcel')
+        return pathExcel
+
+    @staticmethod
+    def getUrlSheetLogin():
+        sheetLogin = config.get('common-info', 'sheetLogin')
+        return sheetLogin
+
+    @staticmethod
+    def getUrlSheetRegister():
+        sheetRegister = config.get('common-info', 'sheetRegister')
+        return sheetRegister
+
+    @staticmethod
     def getnewUserName():
         username = config.get('common-info', 'newuserName')
         return username
